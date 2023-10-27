@@ -13,3 +13,9 @@ pasos para clonar:
 10. comando git remote add origin (url del repo creado previamente).
 11. git push -u origin main.
 12. listo, tienes tu repo creado con la informacion del clonado.
+
+# añadiendo programa.
+1. en mi caso cree un programa desde cero añadiendo el metodo main
+2. programa muy sencillo, luego lo añadi con git add (nombre del archivo)
+3. git commit -m (comentario diciendo lo que añadiste y sus funciones).
+4. git push -u origin (master/main)
